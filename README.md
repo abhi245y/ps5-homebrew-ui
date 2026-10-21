@@ -1,3 +1,10 @@
+> **This is a fork.** The original repository,
+> [blackbearreloaded/ps5-homebrew-ui](https://github.com/blackbearreloaded/ps5-homebrew-ui),
+> is no longer available on GitHub. This fork keeps its full history and tags,
+> unchanged, under the original GPL-3.0 license, so projects that build on it
+> (such as [PS5LM Plus](https://github.com/abhi245y/PS5LM-Plus)) stay buildable.
+> All credit for the code goes to its original author.
+
 <div align="center">
 
 # ps5-homebrew-ui
